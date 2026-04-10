@@ -9,7 +9,7 @@ lang: en
 timezone: Asia/Colombo
 
 # jekyll-seo-tag settings
-title: My Daily Progress Journal          # ← Change this if you want
+title: My Daily Progress Journal
 tagline: Daily accountability logs for coding, learning & growth
 description: >-
   My personal daily progress journal to stay consistent and accountable.
@@ -22,35 +22,34 @@ github:
   username: profrdunkenstein
 
 twitter:
-  username: ""   # leave empty if you don't use Twitter
+  username: ""   # leave empty
 
 social:
-  name: Mithurangan                     # your name / display name
-  email: ""                             # optional
+  name: Mithurangan
+  email: ""      # optional
   fediverse_handle: ""
   links:
-    - https://github.com/profrdunkenstein   # your GitHub profile
-    # Add more links if you want:
-    # - https://twitter.com/yourhandle
+    - https://github.com/profrdunkenstein
+    # Add more links later if you want
 
 # Web Analytics (leave empty for now)
 analytics:
   google:
-    id: 
+    id:
   goatcounter:
-    id: 
+    id:
 
 # Prefer color scheme (empty = follow system + toggle)
-theme_mode: 
+theme_mode:
 
-# Avatar (optional - you can add an image later in assets/img/)
-avatar: 
+# Avatar (optional - add later)
+avatar:
 
 # Global TOC in posts
 toc: true
 
 comments:
-  provider: ""   # keep empty to disable comments for now
+  provider: ""   # keep empty to disable comments
 
 pwa:
   enabled: true
